@@ -1,7 +1,7 @@
 const accountId = 123456
 let accountEmail = "vaishnavi@gmail.com"
 var accountPassword = "09876"
-accountCity = "paithan"
+accountCity = "shevgaon"
 let accountState;
 
 //accountId = 2
