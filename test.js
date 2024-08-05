@@ -17,14 +17,20 @@
 
 // alert(3+3)
 
-let score = null
-console.log(typeof score);
+// let score = null
+// console.log(typeof score);
 
-let valueInNumber = Number(score)
-console.log(typeof valueInNumber);
-console.log(valueInNumber);
+// let valueInNumber = Number(score)
+// console.log(typeof valueInNumber);
+// console.log(valueInNumber);
 
-let isLoggedIn = 0
+// let isLoggedIn = 0
 
-let booleanIsLoggedIn = Boolean(isLoggedIn)
-console.log(booleanIsLoggedIn);
+// let booleanIsLoggedIn = Boolean(isLoggedIn)
+// console.log(booleanIsLoggedIn);
+
+let someNumber = 33
+let StringNumber = String(someNumber)
+console.log(StringNumber);
+console.log(typeof StringNumber);
+
