@@ -1,8 +1,9 @@
-const accountId = 123456
-let accountEmail = "vaishnavi@gmail.com"
-var accountPassword = "09876"
-accountCity = "shevgaon"
-let accountState;
+// const accountId = 123456
+// let accountEmail = "vaishnavi@gmail.com"
+// var accountPassword = "09876"
+// accountCity = "shevgaon"
+// accountNomber = "9087665456"
+// let accountState;
 
 //accountId = 2
 
@@ -10,10 +11,20 @@ let accountState;
 // accountPassword = "176383"
 // accountCity = "nagpur"
 
-console.log(accountId);
+// console.log(accountId);
 
-console.table([accountId, accountEmail, accountPassword, accountCity, accountState]);
+// console.table([accountId, accountEmail, accountPassword, accountCity, accountState]);
 
 // alert(3+3)
 
-console.log(typeof undefined);
+let score = null
+console.log(typeof score);
+
+let valueInNumber = Number(score)
+console.log(typeof valueInNumber);
+console.log(valueInNumber);
+
+let isLoggedIn = 0
+
+let booleanIsLoggedIn = Boolean(isLoggedIn)
+console.log(booleanIsLoggedIn);
