@@ -46,6 +46,15 @@ console.log(str3);
 
 console.log(1 / 2);
 console.log(5 * 4);
+console.log("1" + 2 + 2);
+console.log(1 + 2 + "2");
+
+// console.log(+false);
+// console.log(+1);
+
+let gameCounter = 100
+++gameCounter;
+console.log(gameCounter);
 
 
 
