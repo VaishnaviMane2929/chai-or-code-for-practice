@@ -17,27 +17,37 @@
 
 // alert(3+3)
 
-let score = null
-console.log(typeof score);
+// let score = null
+// console.log(typeof score);
 
-let valueInNumber = Number(score)
-console.log(typeof valueInNumber);
-console.log(valueInNumber);
+// let valueInNumber = Number(score)
+// console.log(typeof valueInNumber);
+// console.log(valueInNumber);
 
-let isLoggedIn = 0
+// let isLoggedIn = 0
 
-let booleanIsLoggedIn = Boolean(isLoggedIn)
-console.log(booleanIsLoggedIn);
+// let booleanIsLoggedIn = Boolean(isLoggedIn)
+// console.log(booleanIsLoggedIn);
 
-let someNumber = 33
-let StringNumber = String(someNumber)
-console.log(StringNumber);
-console.log(typeof StringNumber);
-console.log(StringNumber);
+// let someNumber = 33
+// let StringNumber = String(someNumber)
+// console.log(StringNumber);
+// console.log(typeof StringNumber);
+// console.log(StringNumber);
 
-let value = 3
-let negValue = -value
-console.log(negValue);
+// let value = 3
+// let negValue = -value
+// console.log(negValue);
+
+let str1 = "hello"
+let str2 = " vaishnavi"
+let str3 = str1 + str2
+console.log(str3);
+
+console.log(1 / 2);
+console.log(5 * 4);
+
+
 
 
 
