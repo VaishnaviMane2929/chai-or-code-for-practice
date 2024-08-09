@@ -52,7 +52,7 @@ console.log(1 + 2 + "2");
 // console.log(+false);
 // console.log(+1);
 
-let gameCounter = 100
+let gameCounter = 150
 ++gameCounter;
 console.log(gameCounter);
 
