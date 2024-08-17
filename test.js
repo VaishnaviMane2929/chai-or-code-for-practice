@@ -39,22 +39,45 @@
 // let negValue = -value
 // console.log(negValue);
 
-let str1 = "hello"
-let str2 = " vaishnavi"
-let str3 = str1 + str2
-console.log(str3);
+// let str1 = "hello"
+// let str2 = " vaishnavi"
+// let str3 = str1 + str2
+// console.log(str3);
 
-console.log(1 / 2);
-console.log(5 * 4);
-console.log("1" + 2 + 2);
-console.log(1 + 2 + "2");
+// console.log(1 / 2);
+// console.log(5 * 4);
+// console.log("1" + 2 + 2);
+// console.log(1 + 2 + "2");
 
 // console.log(+false);
 // console.log(+1);
 
-let gameCounter = 150
-++gameCounter;
-console.log(gameCounter);
+// let gameCounter = 150
+// ++gameCounter;
+// console.log(gameCounter);
+
+const score = 100
+const scoreValue = 100.3
+
+const isLoggedIn = false
+const outsideTemp = null
+let userEmail;
+
+const id = Symbol('123')
+const anotherId = Symbol('123')
+console.log(id == anotherId);
+
+const heros = ("shaktiman", "chotabhim", "nagraj", "doga");
+let myObj = {
+    Name: "vaishnavi",
+    age: 19,
+}
+const myFunction = function(){
+    console.log("hello world");
+    
+}
+console.log(typeof scoreValue);
+
 
 
 
