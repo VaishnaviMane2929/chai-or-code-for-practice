@@ -77,6 +77,9 @@ const myFunction = function(){
     
 }
 console.log(typeof scoreValue);
+const logic = ("arithmatical");
+console.log("add");
+
 
 let a = 5;
 let b = a++;
