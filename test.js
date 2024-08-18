@@ -80,7 +80,7 @@ console.log(typeof scoreValue);
 
 let a = 5;
 let b = a++;
-let c = a + b;
+let c = a * b;
 console.log(c);
 
 
