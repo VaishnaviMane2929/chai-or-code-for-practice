@@ -90,6 +90,13 @@ const name = "vaishnavi"
 const repoCount = 10
 // console.log(name + repoCount + "value");
 console.log(`this my name is ${name} and my repository are ${repoCount}`);
+const gameName = new String('vaishumane')
+console.log(gameName[0]);
+console.log(gameName.__proto__);
+console.log(gameName.length);
+console.log(gameName.charAt(3));
+
+
 
 
 
