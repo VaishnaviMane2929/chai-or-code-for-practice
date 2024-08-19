@@ -56,35 +56,41 @@
 // ++gameCounter;
 // console.log(gameCounter);
 
-const score = 100
-const scoreValue = 100.3
+// const score = 100
+// const scoreValue = 100.3
 
-const isLoggedIn = false
-const outsideTemp = null
-let userEmail;
+// const isLoggedIn = false
+// const outsideTemp = null
+// let userEmail;
 
-const id = Symbol('123')
-const anotherId = Symbol('123')
-console.log(id == anotherId);
+// const id = Symbol('123')
+// const anotherId = Symbol('123')
+// console.log(id == anotherId);
 
-const heros = ("shaktiman", "chotabhim", "nagraj", "doga");
-let myObj = {
-    Name: "vaishnavi",
-    age: 19,
-}
-const myFunction = function(){
-    console.log("hello world");
+// const heros = ("shaktiman", "chotabhim", "nagraj", "doga");
+// let myObj = {
+//     Name: "vaishnavi",
+//     age: 19,
+// }
+// const myFunction = function(){
+//     console.log("hello world");
     
-}
-console.log(typeof scoreValue);
-const logic = ("arithmatical");
-console.log("add");
+// }
+// console.log(typeof scoreValue);
+// const logic = ("arithmatical");
+// console.log("add");
 
 
-let a = 5;
-let b = a++;
-let c = a * b;
-console.log(c);
+// let a = 5;
+// let b = a++;
+// let c = a * b;
+// console.log(c);
+
+const name = "vaishnavi"
+const repoCount = 10
+// console.log(name + repoCount + "value");
+console.log(`this my name is ${name} and my repository are ${repoCount}`);
+
 
 
 
