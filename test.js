@@ -98,6 +98,21 @@ console.log(gameName.indexOf('i'));
 const newString = gameName.substring(0,4)
 console.log(newString);
 
+const anotherString = gameName.substring(-8,4)
+console.log(anotherString);
+const newStringOne = "   vaishnavi    "
+console.log(newStringOne);
+console.log(newStringOne.trim());
+
+const url = "https://vaishnavi.com/vaishnavi%29mane"
+console.log(url.replace('%29', '-'));
+console.log(url.includes('function'));
+
+
+
+
+
+
 
 
 
