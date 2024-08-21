@@ -108,6 +108,10 @@ const url = "https://vaishnavi.com/vaishnavi%29mane"
 console.log(url.replace('%29', '-'));
 console.log(url.includes('function'));
 
+const score = 400
+const balance = new Number(100)
+console.log(balance);
+
 
 
 
